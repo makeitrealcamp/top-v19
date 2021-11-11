@@ -15,7 +15,7 @@
 - Igor Chinchay Farroñay
 - Jean Marco Silva
 - Andrés Therán
-- Carlos Pinzón
+- [Carlos Pinzón](https://github.com/capzink/)
 - Victor Salcedo
 - Fabrizzio Apolinar
 - Andrés Puello
