@@ -1,7 +1,7 @@
 # Programa Top v19 -  Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
-- Germán Escobar
+- [Germán Escobar](https://github.com/germanescobar/)
 - Mateo Herrera
 - Nataliya Ershova
 
