@@ -12,7 +12,7 @@
 - Rivaldo Ortega
 - Franco Melgar
 - Oscar Herrera
-- Igor Chinchay Farroñay
+- [Igor Chinchay Farroñay](https://github.com/Kasuk1)
 - Jean Marco Silva
 - Andrés Therán
 - [Carlos Pinzón](https://github.com/capzink/)
