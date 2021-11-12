@@ -1,4 +1,4 @@
-# Programa Top v19 -  Tiempo Completo
+﻿# Programa Top v19 -  Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 - [Germán Escobar](https://github.com/germanescobar/)
@@ -11,7 +11,7 @@
 - Natalia Hernandez
 - Rivaldo Ortega
 - Franco Melgar
-- Oscar Herrera
+- [Oscar Herrera](https://github.com/osmahelo)
 - [Igor Chinchay Farroñay](https://github.com/Kasuk1)
 - Jean Marco Silva
 - Andrés Therán
