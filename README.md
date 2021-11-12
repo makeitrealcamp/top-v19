@@ -14,7 +14,7 @@
 - Oscar Herrera
 - [Igor Chinchay Farroñay](https://github.com/Kasuk1)
 - Jean Marco Silva
-- Andrés Therán
+- [Andrés Therán](https://github.com/Andrestheran)
 - [Carlos Pinzón](https://github.com/capzink/)
 - Victor Salcedo
 - Fabrizzio Apolinar
