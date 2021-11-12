@@ -11,7 +11,7 @@
 - [Natalia Hernandez](https://github.com/Natalia1705/)
 - Rivaldo Ortega
 - Franco Melgar
-- Oscar Herrera
+- [Oscar Herrera](https://github.com/osmahelo)
 - [Igor Chinchay Farroñay](https://github.com/Kasuk1)
 - Jean Marco Silva
 - [Andrés Therán](https://github.com/Andrestheran)
