@@ -17,7 +17,7 @@
 - Andrés Therán
 - [Carlos Pinzón](https://github.com/capzink/)
 - Victor Salcedo
-- Fabrizzio Apolinar
+- [Fabrizzio De Bracamonte](https://github.com/fabrizziodbc)
 - [Andrés Puello](https://github.com/AndresXLP)
 - Edmundo Prado
 
