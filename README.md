@@ -1,4 +1,4 @@
-# Programa Top v19 -  Tiempo Completo
+﻿# Programa Top v19 -  Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
 - [Germán Escobar](https://github.com/germanescobar/)
@@ -16,8 +16,8 @@
 - Jean Marco Silva
 - [Andrés Therán](https://github.com/Andrestheran)
 - [Carlos Pinzón](https://github.com/capzink/)
-- Victor Salcedo
 - [Fabrizzio De Bracamonte](https://github.com/fabrizziodbc)
+- [Victor Salcedo](https://github.com/torvic)
 - [Andrés Puello](https://github.com/AndresXLP)
 - Edmundo Prado
 
