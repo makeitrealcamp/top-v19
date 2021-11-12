@@ -8,7 +8,7 @@
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - Laura Cañón
 - Marcela Gonzalez
-- Natalia Hernandez
+- [Natalia Hernandez](https://github.com/Natalia1705/)
 - Rivaldo Ortega
 - Franco Melgar
 - Oscar Herrera
