@@ -16,7 +16,7 @@
 - Jean Marco Silva
 - Andrés Therán
 - [Carlos Pinzón](https://github.com/capzink/)
-- Victor Salcedo
+- [Victor Salcedo](https://github.com/torvic)
 - Fabrizzio Apolinar
 - [Andrés Puello](https://github.com/AndresXLP)
 - Edmundo Prado
