@@ -10,7 +10,7 @@
 - [Laura Cañón](https://github.com/LauraCanon)
 - Marcela Gonzalez
 - [Natalia Hernandez](https://github.com/Natalia1705/)
-- Rivaldo Ortega
+- [Rivaldo Ortega](https://github.com/ROAKenzo)
 - [Franco Melgar](https://github.com/june1495)
 - [Oscar Herrera](https://github.com/osmahelo)
 - [Igor Chinchay Farroñay](https://github.com/Kasuk1)
