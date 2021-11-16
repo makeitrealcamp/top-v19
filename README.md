@@ -1,22 +1,24 @@
-# Programa Top v19 -  Tiempo Completo
+﻿# Programa Top v19 - Tiempo Completo
 
 ## Mentores 👩🏻‍🏫👨🏼‍🏫
+
 - [Germán Escobar](https://github.com/germanescobar/)
 - Mateo Herrera
 - Nataliya Ershova
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
+- Laura Cañón
 - [Laura Cañón](https://github.com/LauraCanon)
 - Marcela Gonzalez
-- Natalia Hernandez
+- [Natalia Hernandez](https://github.com/Natalia1705/)
 - Rivaldo Ortega
-- Franco Melgar
-- Oscar Herrera
+- [Franco Melgar](https://github.com/june1495)
+- [Oscar Herrera](https://github.com/osmahelo)
 - [Igor Chinchay Farroñay](https://github.com/Kasuk1)
 - Jean Marco Silva
-- Andrés Therán
+- [Andrés Therán](https://github.com/Andrestheran)
 - [Carlos Pinzón](https://github.com/capzink/)
-- Victor Salcedo
+- [Victor Salcedo](https://github.com/torvic)
 - Fabrizzio Apolinar
 - [Andrés Puello](https://github.com/AndresXLP)
 - Edmundo Prado
@@ -33,4 +35,3 @@
 - **Modulo 8**: Envio de email e Integración con pasarela de pagos.
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
-
