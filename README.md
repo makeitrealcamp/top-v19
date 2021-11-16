@@ -12,7 +12,7 @@
 - Marcela Gonzalez
 - [Natalia Hernandez](https://github.com/Natalia1705/)
 - Rivaldo Ortega
-- [Franco Melgar] (https://github.com/june1495)
+- [Franco Melgar](https://github.com/june1495)
 - [Oscar Herrera](https://github.com/osmahelo)
 - [Igor Chinchay Farroñay](https://github.com/Kasuk1)
 - Jean Marco Silva
