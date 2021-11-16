@@ -7,7 +7,6 @@
 - Nataliya Ershova
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- Laura Cañón
 - [Laura Cañón](https://github.com/LauraCanon)
 - Marcela Gonzalez
 - [Natalia Hernandez](https://github.com/Natalia1705/)
