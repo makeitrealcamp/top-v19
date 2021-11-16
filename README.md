@@ -6,7 +6,7 @@
 - Nataliya Ershova
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
-- [Laura Cañón] (https://github.com/LauraCanon)
+- [Laura Cañón](https://github.com/LauraCanon)
 - Marcela Gonzalez
 - Natalia Hernandez
 - Rivaldo Ortega
