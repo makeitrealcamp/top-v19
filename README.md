@@ -17,8 +17,8 @@
 - Jean Marco Silva
 - [Andrés Therán](https://github.com/Andrestheran)
 - [Carlos Pinzón](https://github.com/capzink/)
+- [Fabrizzio De Bracamonte](https://github.com/fabrizziodbc)
 - [Victor Salcedo](https://github.com/torvic)
-- Fabrizzio Apolinar
 - [Andrés Puello](https://github.com/AndresXLP)
 - Edmundo Prado
 
