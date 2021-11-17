@@ -8,7 +8,7 @@
 
 ## Estudiantes 👩🏻‍💻🧑🏼‍💻
 - [Laura Cañón](https://github.com/LauraCanon)
-- Marcela Gonzalez
+- [Marcela Gonzalez](https://github.com/marceg88/)
 - [Natalia Hernandez](https://github.com/Natalia1705/)
 - [Rivaldo Ortega](https://github.com/ROAKenzo)
 - [Franco Melgar](https://github.com/june1495)
