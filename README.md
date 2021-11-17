@@ -14,7 +14,7 @@
 - [Franco Melgar](https://github.com/june1495)
 - [Oscar Herrera](https://github.com/osmahelo)
 - [Igor Chinchay Farroñay](https://github.com/Kasuk1)
-- Jean Marco Silva
+- [Jean Marco Silva](https://github.com/JeanMarco173)
 - [Andrés Therán](https://github.com/Andrestheran)
 - [Carlos Pinzón](https://github.com/capzink/)
 - [Fabrizzio De Bracamonte](https://github.com/fabrizziodbc)
