@@ -34,3 +34,14 @@
 - **Modulo 8**: Envio de email e Integración con pasarela de pagos.
 - **Modulo 9**: CI/CD del backend y el frontend.
 - **Modulo 10**: `DEMO Publico` 🎊🎉💻🎊🎉
+
+## Requisitos para culminar satisfactoriamente el programa
+
+Deberás presentar y aprobar las siguienes misiones:
+
+1. Assesment Frontend.
+2. Assesment LinkedIn.
+3. Assesment CV.
+4. Assesment Github.
+5. Proyecto Grupal.
+6. Proyecto Individual.
